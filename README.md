@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Brito 👋
 
-- 🔭 Hoje trabalho como analista de sistemas na empresa Grupo Muffato 
-- 🌱 Estudando Back-End e sendo entusiasta no Front-End
+- 🔭 Hoje trabalho como programador front-end na empresa Grupo Muffato 
+- 🌱 Estudando Front-End e sendo entusiasta no Back-End, pretendo ser Full-Stack um dia. 
 - ⚡ Fun fact: Alguns fungos criam zumbis e então controlam suas mentes... Qual o seu "fungo"? 
 
 
