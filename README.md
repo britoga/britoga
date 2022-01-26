@@ -5,11 +5,11 @@
 - ⚡ Fun fact: Alguns fungos criam zumbis e então controlam suas mentes... Qual o seu "fungo"? 
 
 
-<div>
+<!-- <div>
   <a href="https://github.com/britoga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britoga&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoga&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Brito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
