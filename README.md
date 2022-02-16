@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Brito 👋
 
-- 🔭 Hoje trabalho como programador front-end na empresa Grupo Muffato 
+- 🔭 Front-End Developer 
 - 🌱 Estudando Front-End e sendo entusiasta no Back-End, pretendo ser Full-Stack um dia. 
 - ⚡ Fun fact: Alguns fungos criam zumbis e então controlam suas mentes... Qual o seu "fungo"? 
 
