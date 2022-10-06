@@ -18,7 +18,7 @@
   <img align="center" alt="Brito-Js" height="30" width="40" src="https://raw.githubusercontent.com/react-icons/react-icons/master/packages/demo-all-files/public/favicon.ico">
   <img align="center" alt="Brito-CSS" height="30" width="40" src="https://github.com/twbs/icons/blob/main/icons/bootstrap-fill.svg">
   <img align="center" alt="Brito-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Brito-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
+  <img align="center" alt="Brito-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
   
 </div>
   
