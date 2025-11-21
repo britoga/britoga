@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Gabriel Brito 👋
 
-- 🔭 Front-End Developer 
-- 🌱 pretendo ser Full-Stack um dia. 
-
 
 <!-- <div>
   <a href="https://github.com/britoga">
